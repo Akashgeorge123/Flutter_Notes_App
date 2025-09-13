@@ -60,3 +60,14 @@ uuid
 hive & hive_flutter
 
 Made with 💜 using Flutter.
+
+## Screenshots
+
+Home Screen:
+
+![Home Screen](assets/images/Screenshot_1.jpg)
+
+Note Editor:
+
+![Note Editor](assets/images/Screenshot_1
+2.jpg)
